@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rifaz <br><br>- 🔭 I’m trying to be an AI developer <br>- 📚 I'm currently learning Python and C++ <br>- ⚡ </p>
 
 ###
 
