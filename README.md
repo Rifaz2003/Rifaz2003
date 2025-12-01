@@ -44,6 +44,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 🐍 My Winding Code Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rifaz2003/Rifaz2003/main/dist/snake-dark.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Rifaz2003/Rifaz2003/main/dist/snake.svg">
+</picture>
 
 ###
